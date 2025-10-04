@@ -19,7 +19,7 @@ Final Prediction: Weighted majority vote (classification) or weighted average (r
 
 Goal: Improve classification accuracy.
 
-Algorithm:
+👉Algorithm:
 
 Initialize equal weights for all samples.
 
@@ -29,7 +29,7 @@ Increase weights of misclassified samples.
 
 Combine weak learners into a strong classifier via weighted voting.
 
-Use Cases:
+👉Use Cases:
 
 Spam detection
 
