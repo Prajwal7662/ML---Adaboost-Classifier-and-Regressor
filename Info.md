@@ -41,7 +41,7 @@ Medical diagnosis
 
 Goal: Improve regression performance.
 
-Algorithm:
+👉Algorithm:
 
 Initialize weights for all samples.
 
@@ -51,7 +51,7 @@ Increase weights for poorly predicted samples.
 
 Combine weak regressors into a strong predictor via weighted averaging.
 
-Use Cases:
+👉Use Cases:
 
 Predicting stock prices
 
